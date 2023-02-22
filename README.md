@@ -2,6 +2,14 @@
 
 Меня зовут Илья Зяблов, я являюсь fullstack-разработчиком на JavaScript.
 
+Мои компетенции:
+- Языки программирования: JavaScript
+- Вёрстка: HTML / CSS
+- Операционные системы: Windows
+- Базы данных: SQL, MongoDB
+- Фреймворки: Node.js, Express.js, Nest.js, Sequelize, React, Nuxt.js
+
+
 Посмотрите на мои работы:
 - Адаптивная вёрстка по дизайн-макету: https://github.com/IlyaZyablov/graduate_work_ver2
 - Основы программирования на JavaScript: https://replit.com/@IlyaZyablov/Diplom-3#logic.js || https://github.com/IlyaZyablov/bjs-diplom
