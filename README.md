@@ -2,15 +2,15 @@
 
 Меня зовут Илья Зяблов, я являюсь fullstack-разработчиком на JavaScript.
 
-Моя компетенция:
-- Языки программирования: JavaScript
-- Вёрстка: HTML, CSS, bootstrap 5
-- Базы данных: SQL, MongoDB
-- Фреймворки / библиотеки: Node.js, Express.js, React (+ redux), Nest.js, Sequelize, Mongoose, Socket.IO, Passport.js, EJS, webpack
-- Программное обеспечение: Docker
+**Моя компетенция:**
+- Языки программирования: **JavaScript**
+- Вёрстка: **HTML, CSS, bootstrap 5**
+- Базы данных: **SQL, MongoDB**
+- Фреймворки / библиотеки: **Node.js, Express.js, React (+ redux), Nest.js, Sequelize, Mongoose, Socket.IO, Passport.js, EJS, webpack**
+- Программное обеспечение: **Docker**
 
 
-Посмотрите на мои работы:
+**Посмотрите на мои работы:**
 - Адаптивная вёрстка по дизайн-макету (диплом): https://github.com/IlyaZyablov/graduate_work_ver2
 - Основы программирования на JavaScript (диплом): https://replit.com/@IlyaZyablov/Diplom-3#logic.js || https://github.com/IlyaZyablov/bjs-diplom
 - JavaScript & браузер (диплом): https://github.com/IlyaZyablov/bhj-diploma
@@ -21,7 +21,7 @@
 - Дипломная работа по Node.JS, Express: https://github.com/IlyaZyablov/ndse-diplom
 
 
-Сертификаты Нетологии (направление - Fullstack-разработчик на JavaScript - https://netology.ru/programs/veb-razrabotchik-s-nulya-professiya-s-vyborom-specializacii#/form_guarantees):
+**Сертификаты Нетологии** (направление - **Fullstack-разработчик на JavaScript** - https://netology.ru/programs/veb-razrabotchik-s-nulya-professiya-s-vyborom-specializacii#/form_guarantees):
 - HTML-верстка: https://netology.ru/sharing/f80f71f474dbbeb169d0f6ecadc43163?utm_source=social
 - Адаптивная и мобильная верстка: https://netology.ru/sharing/e21cdd601ccb49c865d438469fa6dd9f?utm_source=social
 - Основы программирования: https://netology.ru/sharing/a96bb746bea915ae096b15aa9242f4c1?utm_source=social
