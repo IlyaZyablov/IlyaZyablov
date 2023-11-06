@@ -4,9 +4,9 @@
 
 Моя компетенция:
 - Языки программирования: JavaScript
-- Вёрстка: HTML / CSS
+- Вёрстка: HTML, CSS, bootstrap 5
 - Базы данных: SQL, MongoDB
-- Фреймворки / библиотеки: Node.js, Express.js, React (+ redux), Nest.js, Sequelize, Mongoose, Socket.IO
+- Фреймворки / библиотеки: Node.js, Express.js, React (+ redux), Nest.js, Sequelize, Mongoose, Socket.IO, Passport.js, EJS, webpack
 - Программное обеспечение: Docker
 
 
