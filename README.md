@@ -21,7 +21,7 @@
 - Дипломная работа по Node.JS, Express: https://github.com/IlyaZyablov/ndse-diplom
 
 
-Сертификаты Нетологии (направление - Fullstack-разработчик на JavaScript):
+Сертификаты Нетологии (направление - Fullstack-разработчик на JavaScript - https://netology.ru/programs/veb-razrabotchik-s-nulya-professiya-s-vyborom-specializacii#/form_guarantees):
 - HTML-верстка: https://netology.ru/sharing/f80f71f474dbbeb169d0f6ecadc43163?utm_source=social
 - Адаптивная и мобильная верстка: https://netology.ru/sharing/e21cdd601ccb49c865d438469fa6dd9f?utm_source=social
 - Основы программирования: https://netology.ru/sharing/a96bb746bea915ae096b15aa9242f4c1?utm_source=social
