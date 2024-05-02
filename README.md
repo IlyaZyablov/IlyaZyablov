@@ -19,6 +19,8 @@
 - Дипломная работа по React: https://github.com/IlyaZyablov/ra16-diploma
 - Домашние работы по Node.JS, Express: https://github.com/IlyaZyablov/ndse-homeworks || https://github.com/IlyaZyablov/ndse-homeworks/tree/master/homework-library
 - Дипломная работа по Node.JS, Express: https://github.com/IlyaZyablov/ndse-diplom
+- Домашние работы по TypeScript, Nest.js: https://github.com/IlyaZyablov/ndtnf-homeworks
+- Итоговая дипломная работа по всему обучению (сервис бронирования отелей по типу Booking; Nest.js + React Redux): https://github.com/IlyaZyablov/fjs-diplom  
 
 
 **Сертификаты Нетологии** (направление - **Fullstack-разработчик на JavaScript** - https://netology.ru/programs/veb-razrabotchik-s-nulya-professiya-s-vyborom-specializacii#/form_guarantees):
@@ -30,4 +32,6 @@
 - Основы JavaScript в браузере (DOM, отправка запросов на сервер): https://netology.ru/sharing/fc29c8622eb1394d7820793ff3744061?utm_source=social
 - Продвинутый JavaScript (ООП, webpack, regexp, promise): https://netology.ru/sharing/e736470bb2c92b7a8d215058135ae92c?utm_source=social&utm_campaign=certificate_lms
 - React (hooks, context api, router, redux (toolkit, saga)): https://netology.ru/sharing/714ecf21bc41dbf07b186e8a614c8ed2?utm_source=social&utm_campaign=certificate_lms
-- Введение в Node.JS, библиотека Express.js (пакеты, потоки, middleware, шаблонизаторы (ejs), контейнеризация Docker, passport.js, socket.io, mongoose): https://netology.ru/sharing/bd5bf253c1a884b834b583bb71b4e2f1?utm_source=social&utm_campaign=certificate_lms 
+- Введение в Node.JS, библиотека Express.js (пакеты, потоки, middleware, шаблонизаторы (ejs), контейнеризация Docker, passport.js, socket.io, mongoose): https://netology.ru/sharing/bd5bf253c1a884b834b583bb71b4e2f1?utm_source=social&utm_campaign=certificate_lms
+- TypeScript, Nest.js, Yandex Cloud (IoC контейнеры, TypeScript, потоки RxJs, Jest): https://netology.ru/sharing/ffaa852108a764cc02ca66fc53d4b0ce?utm_source=social&utm_campaign=certificate_lms
+- Итоговый диплом (сервис бронирования отелей по типу Booking, имеется диплом государственного образца): https://netology.ru/sharing/232d5a0fe5f5651b8452192714d73498?utm_source=social&utm_campaign=certificate_lms
